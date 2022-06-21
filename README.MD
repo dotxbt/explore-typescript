@@ -1,6 +1,6 @@
 # Explore Typescript
 
-You can use ts-node to run this the files.
+You can use ts-node to run the files.
 
 #### Install typscript and ts-node
 ```bash
