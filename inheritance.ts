@@ -52,3 +52,9 @@ pa2.printA1A2();
 
 pa2 = pa1;
 pa2.printA1A2();
+
+pa2 = ca1;
+pa2.printA1A2();
+
+pa1 = ca2;
+pa1.printA1A2();
