@@ -1,4 +1,4 @@
-## TYPESCRIPT OOP
+#s Explore Typescripts
 
 You can use ts-node to run this the files.
 
